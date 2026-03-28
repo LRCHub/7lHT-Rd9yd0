@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Q.E.D.",
+  "base_artist": "Sou",
+  "createdAt": "2026-03-28T06:37:48.810103Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Q.E.D.",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/01_Q.E.D._UVERworld.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Q.E.D.",
+      "artist": "androp",
+      "has_synced": true,
+      "path": "select/02_Q.E.D._androp.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "luminescence Q.E.D.",
+      "artist": "分島花音",
+      "has_synced": false,
+      "path": "select/03_luminescence_Q.E.D._分島花音.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "luminescence Q.E.D.",
+      "artist": "Wakeshima, Kanon",
+      "has_synced": false,
+      "path": "select/04_luminescence_Q.E.D._Wakeshima,_Kanon.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gsoh Q.E.D.",
+      "artist": "Black Box Recorder",
+      "has_synced": true,
+      "path": "select/05_Gsoh_Q.E.D._Black_Box_Recorder.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jigsaw -Q.E.D. version-",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/06_Jigsaw_-Q.E.D._version-_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Q.E.D.",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/07_Q.E.D._UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Q.E.D. (KING'S PARADE 男祭り FINAL at TOKYO DOME 2019.12.20)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/08_Q.E.D._(KING'S_PARADE_男祭り_FINAL_at_TOKYO_DOME_2019.12.20)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Q.E.D.(KING'S PARADE at Yokohama Arena 2018.12.21)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/09_Q.E.D.(KING'S_PARADE_at_Yokohama_Arena_2018.12.21)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Q.E.D.",
+      "artist": "逆巻ライト(CV.平川大輔)",
+      "has_synced": true,
+      "path": "select/10_Q.E.D._逆巻ライト(CV.平川大輔).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Q.E.D. KING’S PARADE 男祭り FINAL at TOKYO DOME 2019.12.20 Complete Edition",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/11_Q.E.D._KING’S_PARADE_男祭り_FINAL_at_TOKYO_DOME_2019.12.20_Complete_Edition_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Q.E.D.",
+      "artist": "ましのみ",
+      "has_synced": false,
+      "path": "select/12_Q.E.D._ましのみ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Q.E.D. KING'S PARADE FINAL at TOKYO DOME 2019.12.20",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/13_Q.E.D._KING'S_PARADE_FINAL_at_TOKYO_DOME_2019.12.20_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Q.E.D. KING'S PARADE FINAL at TOKYO DOME 2019.12.20 Complete Edition",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/14_Q.E.D._KING'S_PARADE_FINAL_at_TOKYO_DOME_2019.12.20_Complete_Edition_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Q.E.D.",
+      "artist": "Sou",
+      "has_synced": false,
+      "path": "select/15_Q.E.D._Sou.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Q.E.D.",
+      "artist": "Sou",
+      "has_synced": false,
+      "path": "select/pl_01_Q.E.D._Sou.txt"
+    }
+  ]
+}
