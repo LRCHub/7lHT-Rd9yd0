@@ -1,0 +1,63 @@
+# Sou – Q.E.D.
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Quod erat demonstrandum demons
+Quod erat demons
+
+空っぽな器に
+迫り来る闇の方へ
+
+さぁ!恐れず証明をしよう
+錯覚と遊べるように
+Who am I? I am who I am
+
+1つだけ確かな真実に迫る
+血が通う手とパペットが重なってショータイム
+
+不純物がなくなれば
+本当の姿だってわかるだろうか?
+
+踊れこの夜に are you ready?
+鮮やかな生命塗れ撒き散らして
+
+踊り子の夜に Q.E.D
+フィクションのような闇と狂気の間で
+ねぇ迷迷証明 今 核心を
+ほら君の命が暴くから
+
+Quod erat demonstrandum demons
+Quod erat demons
+
+Quod erat demonstrandum demons
+Quod erat demons
+
+僅かにひらいた
+襲いくる闇の方へ
+
+さぁ!恐れず究明をしよう
+最後の意思を継げるように
+Who am I? I am who I am
+
+1つだけ確かな真実へ迫る
+真っ赤な花に染まった献身のショータイム
+
+非現実を受け入れて
+終わりまで正気でいれるだろうか?
+
+踊れこの夜に are you ready?
+真相に生命溢れ撒き散らして
+
+踊り子の夜に Q.E.D
+フィクションのような
+闇と正気の間で
+ねぇ迷迷証明 今 核心を
+ほら僕の手が掴むから
+
+Quod erat demonstrandum demons
+Quod erat demons
+
+Quod erat demonstrandum demons
+Quod erat demons
+```
